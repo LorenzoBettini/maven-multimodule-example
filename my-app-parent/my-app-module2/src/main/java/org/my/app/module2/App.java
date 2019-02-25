@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+    	org.my.app.module1.App.main(args);
     }
 }
