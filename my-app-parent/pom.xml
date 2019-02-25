@@ -6,4 +6,7 @@
   <artifactId>my-app-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+    <module>my-app-module1</module>
+  </modules>
 </project>
